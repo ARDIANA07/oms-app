@@ -1,14 +1,10 @@
 # oms-app
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+Saya membuat project menggunakan Vue Js 3, styling menggunakan bootstraps + css biasa
+data di simpan di FireBase secara gratis
+fitur yang tersedia Login, kemudian masuk ke tampilan pertama daftar Produk
+User bisa menambahkan produk dan melakukan Search
+Selanjutkan Fitur Order, user bisa melakukan order dengan produk yang tersedia, dan akan muncul riwayat ordernya, user bisa melakukan search order
 
 ## Project Setup
 
